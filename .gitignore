@@ -1,0 +1,40 @@
+# ---------- Python / IDE ----------
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+
+# ---------- Large or third-party raw data (download links in README) ----------
+data/*.tif
+data/*.gpkg
+data/*.csv
+data/*.png
+data/README.md
+data/raw/
+
+# ---------- Large rasters and GIS side files ----------
+*.tif
+*.tiff
+*.vrt
+*.tfw
+*.aux.xml
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+*.qgz
+*.qgs
+
+# Road network (OpenStreetMap, re-downloadable with QuickOSM)
+data/processed/roads_*.gpkg
+
+# Superseded intermediate (had the old dist_road bug)
+data/processed/samples.csv
+
+# ---------- Personal notes ----------
+docs/*
+!docs/Landslide_Susceptibility_Analysis_Bilaspur.pdf

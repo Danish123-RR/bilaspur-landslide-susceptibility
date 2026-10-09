@@ -1,0 +1,8 @@
+factor,weight,direction
+slope,1.468,higher = riskier
+log_dist_road,-1.342,lower = riskier
+ndvi,-0.525,lower = riskier
+elevation,-0.163,lower = riskier
+northness,0.163,higher = riskier
+log_dist_stream,-0.047,lower = riskier
+eastness,0.015,higher = riskier

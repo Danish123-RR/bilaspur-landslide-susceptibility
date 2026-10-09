@@ -1,0 +1,11 @@
+map,class,pct_area,pct_landslides,prob_from,prob_to
+noroad,Very Low,68.5,0.0,0.0,0.192
+noroad,Low,17.9,10.0,0.192,0.384
+noroad,Moderate,9.0,19.6,0.384,0.576
+noroad,High,3.9,31.1,0.576,0.768
+noroad,Very High,0.6,39.3,0.768,0.96
+withroad,Very Low,78.7,0.0,0.0,0.198
+withroad,Low,15.0,11.0,0.198,0.395
+withroad,Moderate,3.2,15.1,0.395,0.593
+withroad,High,2.2,15.5,0.593,0.791
+withroad,Very High,1.0,58.4,0.791,0.989

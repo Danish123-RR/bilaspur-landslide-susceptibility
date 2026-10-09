@@ -1,0 +1,8 @@
+factor,auc_drop
+dist_road,0.164
+slope,0.112
+ndvi,0.018
+dist_stream,0.009
+elevation,0.007
+northness,0.004
+eastness,-0.002

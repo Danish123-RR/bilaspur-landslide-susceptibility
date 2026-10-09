@@ -1,0 +1,25 @@
+roads,scheme,method,auc,std
+with dist_road,Random,Slope only,0.8076259946063402,0.023983048566333872
+with dist_road,Random,Frequency Ratio,0.9100635903250895,0.029296258846863158
+with dist_road,Random,Logistic Regression,0.9096813668169658,0.03514136771667307
+with dist_road,Random,Random Forest,0.9365236687576676,0.024510422597744295
+with dist_road,Spatial 2 km,Slope only,0.8100021877242938,0.021367339983889948
+with dist_road,Spatial 2 km,Frequency Ratio,0.9024454674682889,0.0323100405027837
+with dist_road,Spatial 2 km,Logistic Regression,0.9009546461610357,0.05574117004541855
+with dist_road,Spatial 2 km,Random Forest,0.923180212694563,0.039596712488897096
+with dist_road,Spatial 5 km,Slope only,0.8152252956688306,0.05786329664337727
+with dist_road,Spatial 5 km,Frequency Ratio,0.9016912508786987,0.043804368390917954
+with dist_road,Spatial 5 km,Logistic Regression,0.8957392568377276,0.05562917403228613
+with dist_road,Spatial 5 km,Random Forest,0.9232257110747529,0.042221462805056086
+without dist_road,Random,Slope only,0.8076259946063402,0.023983048566333872
+without dist_road,Random,Frequency Ratio,0.8466324122728475,0.028243700317924857
+without dist_road,Random,Logistic Regression,0.8530759295242728,0.03059335496526731
+without dist_road,Random,Random Forest,0.8954936264342779,0.03232238665447039
+without dist_road,Spatial 2 km,Slope only,0.8100021877242938,0.021367339983889948
+without dist_road,Spatial 2 km,Frequency Ratio,0.8270264315500381,0.02028334048018082
+without dist_road,Spatial 2 km,Logistic Regression,0.8407042049331188,0.037596779255539156
+without dist_road,Spatial 2 km,Random Forest,0.8798329034503226,0.017031253402091294
+without dist_road,Spatial 5 km,Slope only,0.8152252956688306,0.05786329664337727
+without dist_road,Spatial 5 km,Frequency Ratio,0.8332638507088308,0.054681611139289564
+without dist_road,Spatial 5 km,Logistic Regression,0.8445396220835593,0.05937138081983006
+without dist_road,Spatial 5 km,Random Forest,0.8802233137275886,0.048441076668092
